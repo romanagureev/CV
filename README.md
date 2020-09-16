@@ -1,5 +1,7 @@
 ## Academic Projects
 
+* Working on overveiw article of collectives of automata in labyrinths.
+
 * [Regular expression task (Formal languages, 3sem)](https://github.com/romanagureev/reg_exp_practicum)
 * [Context-Free Grammar recognizer (Formal languages, 3sem)](https://github.com/romanagureev/grammar_practicum)
 * [Basic geometry algorithms (Data structures and algorithms, 3sem)](https://github.com/romanagureev/aads/tree/master/Geometry)
@@ -32,4 +34,5 @@
 * Introduction to Probability and Measure Theories (3sem)
 * Probability Theory (4sem)
 * Differential Equations (3-4sem)
+* Ring and field theory (4 sem)
 * Discrete Analysis (3-4sem)
